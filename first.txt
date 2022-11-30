@@ -1,8 +1,4 @@
 Hello world
 good morning
 good afternoon
-<<<<<<< HEAD
 lets see git pull now
-=======
-good evening
->>>>>>> 2e78a7c16c925919dc1d3740d5ef4f748c841f29
